@@ -1,4 +1,4 @@
-%------- Script to postprocess unsteady results --------%
+%------- Script to postprocess unsteady results -------%
 
 clear all
 close all
