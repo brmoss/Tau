@@ -1,4 +1,4 @@
-function [f,P1] = TauFFT(Table,N)
+function [f,P1, BinLength] = TauFFT(Table,N)
 % A function to compute the sigle-sided spectrum of some oscillating flow
 %   property in a Tau unsteady simulation (eg. CL).
 
